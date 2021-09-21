@@ -208,7 +208,7 @@ _Note: Use the [Markdown Table Generator](http://www.tablesgenerator.com/markdow
 | ---------- | ---------- | ---------- | ---------------- |
 | Jump Box   | Gateway    | 10.0.0.4   | Linux            |
 | Web-1      | Web server | 10.0.0.7   | Linux            |
-| Web-2      | Web server | 1.0.0.9    | Linux            |
+| Web-2      | Web server | 10.0.0.9    | Linux            |
 | Elk Server | Monitoring | 10.1.0.4   | Linux            |
 
 ### Access Policies
